@@ -1,0 +1,1 @@
+* Tarayıcıdan girilen sayının asal olup olmadığının bulunması
